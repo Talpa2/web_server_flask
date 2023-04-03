@@ -3,6 +3,7 @@ myvenv
 *~
 pycache
 db.sqlite3
+/static
 .DS_Store
 readme.txt
 database.csv
